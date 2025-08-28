@@ -7,6 +7,7 @@
     "start": "vite preview"
   },
   "dependencies": {
+    "components": "^0.1.0",
     "motion": "^12.23.12",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
